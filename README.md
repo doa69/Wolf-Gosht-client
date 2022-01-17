@@ -2,7 +2,7 @@
 ## Verison Beta1(free)
 - Custom Ai
 - Build in python and java
-- Thomas Jefferson
+- Cool gui
 
 [source code](https://raw.githubusercontent.com/doa69/Wolf-Gosht-client/main/code.txt)
 
