@@ -6,7 +6,7 @@
 
 [source code](https://raw.githubusercontent.com/doa69/Wolf-Gosht-client/main/code.txt)
 
-##Other
+## Other
 - [x] Fixing Ai auto crash
 - [ ] Create a console
 - [ ] Add plugin to the experience when all tasks are complete :tada:
