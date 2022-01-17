@@ -1,7 +1,7 @@
 # Wolf Gosht client
 ## Verison Beta1(free)
 - Custom Ai
-- Build in .ahk
+- Build in Python, C#, Java
 - Cool gui(there is no gui)
 
 [source code](https://raw.githubusercontent.com/doa69/Wolf-Gosht-client/main/code.txt)
